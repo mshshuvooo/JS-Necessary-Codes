@@ -1,0 +1,1 @@
+npm i graphql graphql-tag apollo-boost apollo-cache-inmemory apollo-link-http react-apollo
